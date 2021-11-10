@@ -1,2 +1,3 @@
 # IoTactileSim
-This is the Simulation results of IoTactileSim exerimentations
+This is the Simulation results files of IoTactileSim exeriment Scenario-I and II.
+
